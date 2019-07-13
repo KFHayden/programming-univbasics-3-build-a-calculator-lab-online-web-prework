@@ -4,6 +4,7 @@ end
 
 def subtraction(num1, num2)
 puts 10 - 5
+returns 5
 end
 
 def division(num1, num2)
