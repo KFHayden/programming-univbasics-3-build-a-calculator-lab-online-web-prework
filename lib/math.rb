@@ -3,8 +3,7 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-puts 10 - 5
-return 5
+10 - 5
 end
 
 def division(num1, num2)
@@ -16,7 +15,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-34 modulo 5
+  
 end
 
 def square_root(num)
